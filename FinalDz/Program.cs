@@ -7,3 +7,6 @@ string[] array1 = new string[5] {"112", "15", "hello", "world", "pro"};
 string[] array2 = new string[array1.Length];
 
 void SecArray(string[] array, string[] array2)
+{
+    int count = 0;
+}
